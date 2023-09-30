@@ -5,7 +5,7 @@ Automate Video Montage Creation and Cloud Storage Upload with this Discord Bot!
 The Discord Montage Bot is a Python-based Discord bot that simplifies the process of creating video montages from individual clips and automatically uploading them to Google Drive. It streamlines content creation, making it a valuable tool for streamers, content creators, and anyone needing to compile video clips.
 
 ## Features
-- **Clip Compilation:** Submit video clips to the bot, and it will seamlessly combine them into a professional-looking montage.
+- **Clip Compilation:** Submit video clips to the bot, and it will seamlessly combine them into a simple montage.
 - **Automated Workflow:** The entire process, from clip submission to montage creation, is fully automated.
 - **Google Drive Integration:** Montages are automatically uploaded to your Google Drive, ensuring secure and convenient storage.
 - **User-Friendly Commands:** The bot offers an intuitive set of commands for easy interaction.

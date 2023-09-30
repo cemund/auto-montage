@@ -30,5 +30,5 @@ A full list of available commands and usage examples can be found in the [user g
 ## Tech Stack
 - Python
 - Discord API
-- movie.py
+- MoviePy
 - Google Drive API
